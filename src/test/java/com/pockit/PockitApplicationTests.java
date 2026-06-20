@@ -1,10 +1,10 @@
-package com.pockit.auth_service;
+package com.pockit;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AuthServiceApplicationTests {
+class PockitApplicationTests {
 
 	@Test
 	void contextLoads() {
